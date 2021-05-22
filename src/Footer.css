@@ -1,0 +1,28 @@
+.footercontainer{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5px;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    
+    border-top: 1px solid lightgray;
+    margin-top: 10px !important;
+}
+.replay .MuiSvgIcon-root{
+    color: yellow;
+}
+.closeIcon .MuiSvgIcon-root{
+    color: red;
+}
+
+.star .MuiSvgIcon-root{
+    color: blue;
+}
+
+.fav .MuiSvgIcon-root{
+    color: rgb(10, 240, 48);
+}
+.offline .MuiSvgIcon-root{
+    color: purple;
+}

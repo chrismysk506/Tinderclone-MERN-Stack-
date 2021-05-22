@@ -1,0 +1,12 @@
+.Headercontainer{
+    display: flex;
+    justify-items: center;
+    justify-content: space-evenly;
+    padding: 5px;
+    border-bottom: 1px solid lightgray;
+}
+
+.option .MuiSvgIcon-root{
+    color:red;
+    
+    }
